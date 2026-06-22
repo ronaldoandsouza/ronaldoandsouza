@@ -16,8 +16,7 @@ Otimização de Performance de Modelos Relacionais
 Toda a minha produção técnica relevante está centralizada em um único repositório
 estruturado, simulando projetos de consultoria com problemas de mercado reais:
 
-**[Acesse aqui o meu Repositório Central de Projetos de Dados](./portfolio-data-
-analytics)**
+**[Acesse aqui o meu Repositório Central de Projetos de Dados](https://github.com/ronaldoandsouza/portfolio-data-analytics)**
 
 **O que você encontrará lá:**
 1. **Business Intelligence Aplicado à Logística Internacional:** Análise de performance de
