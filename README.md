@@ -26,5 +26,5 @@ escala em faturamento, modelagem de tabelas Fato/Dimensão e cálculo granular v
 (`SUMX` + `RELATED`).
 ---
 ### Contato e Conexões
-* **LinkedIn:*** www.linkedin.com/in/ronaldo-souza-b16b11196
+* **LinkedIn:*** www.linkedin.com/in/ronaldo-souza-dados
 * **E-mail:** ronaldoandsouza12@gmail.com
